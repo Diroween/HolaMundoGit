@@ -9,7 +9,6 @@ public class HolaMundo {
 		System.out.println("Conflicto");
 		System.out.println("tercer cambio");
 		System.out.println("otro cambio consola");
-		System.out.println("a ver si da fallo de un vez");
 	}
 
 }
