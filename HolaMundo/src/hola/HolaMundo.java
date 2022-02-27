@@ -8,6 +8,7 @@ public class HolaMundo {
 		System.out.println("Segundo cambio");
 		System.out.println("Conflicto");
 		System.out.println("tercer cambio");
+		System.out.println("otro cambio consola");
 	}
 
 }
